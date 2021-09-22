@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/show_all"
+        android:icon="@drawable/msg_media"
+        android:title="@string/all" />
+    <item
+        android:id="@+id/show_personal"
+        android:icon="@drawable/menu_contacts"
+        android:title="@string/personal" />
+    <item
+        android:id="@+id/show_group"
+        android:icon="@drawable/actions_viewmembers"
+        android:title="@string/group" />
+    <item
+        android:id="@+id/show_fav"
+        android:icon="@drawable/msg_fave"
+        android:title="@string/fav" />
+
+
+</menu>

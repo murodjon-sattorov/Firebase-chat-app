@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Firebase Chat app</string>
+    <string name="full_name">Full Name</string>
+    <string name="e_mail_address">E-Mail Address</string>
+    <string name="password">Password</string>
+    <string name="i_accept_the">I accept the </string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="and"> and </string>
+    <string name="terms">Terms</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="all">All chats</string>
+    <string name="personal">Personal</string>
+    <string name="group">Groups</string>
+    <string name="fav">Favorites</string>
+    <string name="your_profile">Your profile</string>
+    <string name="message">Message</string>
+
+    <string name="picker_select">Upload</string>
+    <string name="account">Account</string>
+    <plurals name="picker_selected_count">
+        <item quantity="one">%d image selected</item>
+        <item quantity="other">%d images selected</item>
+    </plurals>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

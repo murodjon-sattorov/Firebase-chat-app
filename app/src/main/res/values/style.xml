@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">5%</item>
+    </style>
+    
+    <style name="SamplePhotoPicker" parent="ChiliPhotoPicker.Light">
+        <item name="pickerCornerRadius">@dimen/samplePickerCornerRadius</item>
+        <item name="pickerBackgroundColor">#EAFBEA</item>
+        <item name="pickerControlColor">#6F9A8D</item>
+    </style>
+</resources>

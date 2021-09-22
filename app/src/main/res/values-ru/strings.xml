@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Chat app</string>
+    <string name="full_name">Полное имя</string>
+    <string name="e_mail_address">Адрес электронной почты</string>
+    <string name="password">Пароль</string>
+    <string name="i_accept_the">Я принимаю </string>
+    <string name="privacy_policy">Политику конфиденциальности</string>
+    <string name="and"> и </string>
+    <string name="terms">Условия</string>
+    <string name="sign_up">Регистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="all" >Все</string>
+    <string name="personal" >Личное</string>
+    <string name="group">Группы</string>
+    <string name="fav">Избранное</string>
+    <string name="your_profile">Твой профиль</string>
+    <string name="message">Сообщение</string>
+
+    <string name="picker_select">Загрузить</string>
+    <string name="account">Account</string>
+</resources>

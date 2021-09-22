@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Firebase Chat app</string>
+    <string name="full_name">To\'liq ism</string>
+    <string name="e_mail_address">E-pochta manzili</string>
+    <string name="password">Parol</string>
+    <string name="i_accept_the">Qabul qilaman </string>
+    <string name="privacy_policy">Maxfiylik siyosati</string>
+    <string name="and"> va </string>
+    <string name="terms">Shartlarini</string>
+    <string name="sign_up">Ro\'yxatdan o\'tish</string>
+    <string name="sign_in">Tizimga Kirish</string>
+    <string name="all" >Barchasi</string>
+    <string name="personal" >Shaxsiy</string>
+    <string name="group">Guruhlar</string>
+    <string name="fav">Sevimlilar</string>
+    <string name="your_profile">Sizning profilingiz</string>
+    <string name="message">Xabar</string>
+
+    <string name="picker_select">Yuklash</string>
+    <string name="account">Account</string>
+</resources>
