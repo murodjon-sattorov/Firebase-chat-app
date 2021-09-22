@@ -103,7 +103,6 @@
             android:layout_marginStart="@dimen/_12sdp"
             android:layout_marginTop="@dimen/_6sdp"
             android:layout_marginBottom="0dp"
-            android:text="+99890 9623029"
             android:textColor="@color/black"
             android:textSize="@dimen/_14sdp" />
 
@@ -140,7 +139,6 @@
             android:layout_marginStart="@dimen/_12sdp"
             android:layout_marginTop="@dimen/_6sdp"
             android:layout_marginBottom="0dp"
-            android:text=".@murodjon_sattorov"
             android:textColor="@color/black"
             android:textSize="@dimen/_14sdp" />
 
@@ -179,7 +177,6 @@
             android:layout_marginTop="@dimen/_6sdp"
             android:layout_marginBottom="0dp"
             android:maxLength="70"
-            android:text="20 y.o - Android | Mobile Developer"
             android:textColor="@color/black"
             android:textSize="@dimen/_14sdp" />
 
