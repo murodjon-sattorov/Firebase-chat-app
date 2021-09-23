@@ -156,12 +156,12 @@ class SignUpFragment : Fragment() {
                     val hashMap: HashMap<String, String> = HashMap()
                     hashMap["id"] = userId
                     hashMap["userFullName"] = fullName
-                    hashMap["userName"] = "default"
+                    hashMap["userName"] = "None"
                     hashMap["userImgURL"] = randomImg.random()
-                    hashMap["bio"] = ""
+                    hashMap["bio"] = "Bio"
                     hashMap["status"] = ""
                     hashMap["userPassword"] = password
-                    hashMap["userPhoneNumber"] = ""
+                    hashMap["userPhoneNumber"] = "The phone number is empty"
 
                     referance.setValue(hashMap).addOnCompleteListener { task2 ->
                         if (task2.isSuccessful) {
